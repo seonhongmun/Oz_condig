@@ -121,7 +121,7 @@ if not True:
     print("True입니다.")
 else :
     print("False입니다.")
-
+ 
 
 True입니다.
 False입니다.
